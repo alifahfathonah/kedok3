@@ -1,0 +1,61 @@
+
+---Downloaded files---
+The import files for: Uni Education Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/kedok3
+Data file = /opt/lampp/htdocs/kedok3/wp-content/uploads/2018/09/demo-content-import-file_2018-09-15__13-36-13.xml
+Widget file = /opt/lampp/htdocs/kedok3/wp-content/uploads/2018/09/demo-widgets-import-file_2018-09-15__13-36-13.json
+Customizer file = /opt/lampp/htdocs/kedok3/wp-content/uploads/2018/09/demo-customizer-import-file_2018-09-15__13-36-13.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Archives - No Title - Widget already exists
+
+Home Page Area : 
+
+ST: Service Widget - World Class Education - Imported
+ST: Introduction Widget - No Title - Imported
+ST: Portfolio Widget - Choose Your Course - Imported
+ST: Short Call to Action Widget - TRUSTED BY OVER 6000+ STUDENTS - Imported
+ST: Event Widget - Upcoming Events - Imported
+ST: Featured Widget - Featured Articles - Imported
+ST: Short Call to Action Widget - THE BEST PRICING WE OFFERED - Imported
+ST: Recent Widget - Recent Posts - Imported
+ST: Client Widget - No Title - Imported
+ST: Short Call to Action Widget - THIS IS A BEST PLACE FOR LEARNING - Imported
+
+Footer Widget 1 : 
+
+Text - Uni Education - Imported
+ST: Social Links Widget - No Title - Imported
+
+Footer Widget 2 : 
+
+Recent Posts - Recent Posts - Imported
+
+Footer Widget 3 : 
+
+Categories - No Title - Imported
+
+Footer Widget 4 : 
+
+Gallery - Gallery - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
